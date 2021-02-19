@@ -39,6 +39,12 @@ tested on Mac OS 10.8 (Mountain Lion), 10.9 (Mavericks) and 10.10 (Yosemite). Si
 will also work on other Unix/Linux distributions. (Note that the latest
 versions of Cython and GSL can be different from those below.)
 
+## conda install
+  
+  ` conda install -c bioconda faststructure `
+ 
+Need create new conda env without python or python version < 2.8
+
 **1. install wget** (most Linux distributions already come with wget; this is, however, not true for the Mac OS)
 [instructions](http://gbs-cloud-tutorial.readthedocs.org/en/latest/03_computer_setup.html)
 
