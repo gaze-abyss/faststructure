@@ -39,7 +39,7 @@ tested on Mac OS 10.8 (Mountain Lion), 10.9 (Mavericks) and 10.10 (Yosemite). Si
 will also work on other Unix/Linux distributions. (Note that the latest
 versions of Cython and GSL can be different from those below.)
 
-## Conda install
+**0.conda install**
   
   ` conda install -c bioconda faststructure `
  
